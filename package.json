@@ -1,0 +1,22 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/severomerfaruk/header.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/severomerfaruk/header/issues"
+  },
+  "homepage": "https://github.com/severomerfaruk/header#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
